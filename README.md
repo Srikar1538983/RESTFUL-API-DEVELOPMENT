@@ -16,8 +16,14 @@ The RESTful API for a Library Management System is built using Node.js** and Exp
 
 *OUTPUT*:
 
-![Image](https://github.com/user-attachments/assets/e2f7cffc-aa1f-4867-b32a-f7a380940fd3)
+  CREATE READ UPDATE DELETE OPERATION (CURD):
+
+![Image](https://github.com/user-attachments/assets/1ec2e553-4ab9-48f4-851d-c09b83480000)
 
 ![Image](https://github.com/user-attachments/assets/4b081b24-b1bc-4ec8-a8db-7aa39e670888)
 
-![Image](https://github.com/user-attachments/assets/1ec2e553-4ab9-48f4-851d-c09b83480000)
+![Image](https://github.com/user-attachments/assets/e2f7cffc-aa1f-4867-b32a-f7a380940fd3)
+
+
+
+
